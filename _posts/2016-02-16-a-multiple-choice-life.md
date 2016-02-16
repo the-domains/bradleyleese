@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T22:47:44.866Z'
-dateModified: '2016-02-16T21:36:19.381Z'
+datePublished: '2016-02-16T22:51:55.703Z'
+dateModified: '2016-02-16T22:51:52.917Z'
 title: A Multiple Choice Life
 author: []
 sourcePath: _posts/2016-02-16-a-multiple-choice-life.md
@@ -26,8 +26,9 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/620d0725-9400-4695-9e26-e5b419a96edc.jpg)
 
 _Letters to my family. _
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4a5f183-4729-4ebf-ab50-4327c5e231da.JPG)
 
-Demonstration of the depth of my love for my wife, daughter and son. May each of them always know how much I have each of them as individuals and as my special family members. 
+Demonstration of the depth of my love for my wife, daughter and son. May each of them always know how much I have each of them as individuals and as my special family members.
 
 Jenny 
 
