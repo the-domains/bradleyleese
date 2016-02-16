@@ -1,4 +1,4 @@
-name: BradleyLeese
+name: Bradley Leese
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.52041
@@ -22,8 +22,8 @@ color:
     - '#a2ceff'
     - '#494529'
     - '#82912f'
-  brandStrength: 0.1875
+  brandStrength: 0.5
   lightness: 0.3125
-  saturation: 0.5
-  rhythmicContrast: 1
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
