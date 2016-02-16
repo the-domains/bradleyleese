@@ -6,25 +6,24 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-16T19:45:33.756Z'
-dateModified: '2016-02-16T18:58:44.861Z'
+datePublished: '2016-02-16T21:28:03.321Z'
+dateModified: '2016-02-16T21:27:58.823Z'
 title: A Multiple Choice Life
 author: []
+sourcePath: _posts/2016-02-16-a-multiple-choice-life.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-16-a-multiple-choice-life.md
-published: true
 url: a-multiple-choice-life/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad65ae21-d33b-40a7-a87d-5f4c5439df31.JPG)
-
 # A Multiple Choice Life
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/620d0725-9400-4695-9e26-e5b419a96edc.jpg)
 
 _Letters to my family. _
 
