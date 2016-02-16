@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-16T22:51:55.703Z'
-dateModified: '2016-02-16T22:51:52.917Z'
+datePublished: '2016-02-16T22:54:52.941Z'
+dateModified: '2016-02-16T22:54:47.079Z'
 title: A Multiple Choice Life
 author: []
 sourcePath: _posts/2016-02-16-a-multiple-choice-life.md
