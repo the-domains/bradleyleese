@@ -1,5 +1,8 @@
+name: Bradley Leese
+favicon: null
+layout_spectrum: 0.29535
+typography_spectrum: 0.44311
 title: Bradley Leese - Family Journal
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1917563
-  brandStrength: 0.75
-  lightness: 0.75
   brandColors:
     - '#eed300'
     - '#c08600'
     - '#65926b'
     - '#365939'
     - '#703400'
-  rhythmicContrast: 0.2867384
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Bradley Leese
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.52041
-layout_spectrum: 0.7580645
+  brandStrength: 1
+  lightness: 0.8125
+  saturation: 0
+  rhythmicContrast: 1
+purpose: []
