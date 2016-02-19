@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-19T20:35:51.669Z'
-dateModified: '2016-02-19T20:35:41.100Z'
+datePublished: '2016-02-19T23:52:25.908Z'
+dateModified: '2016-02-19T23:52:25.555Z'
 title: A Multiple Choice Life
 author: []
 sourcePath: _posts/2016-02-16-a-multiple-choice-life.md
@@ -32,9 +32,10 @@ Demonstration of the depth of my love for my wife, daughter and son. May each of
 
 [Jenny ][0]
 
-Haley
+[Haley][1]
 
-[Colin][1]
+[Colin][2]
 
 [0]: http://www.bradleyleese.com/jenny/
-[1]: http://www.bradleyleese.com/colin/
+[1]: http://www.bradleyleese.com/haley/
+[2]: http://www.bradleyleese.com/colin/
