@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-19T20:17:19.507Z'
-dateModified: '2016-02-19T20:12:28.380Z'
+datePublished: '2016-02-19T20:35:33.640Z'
+dateModified: '2016-02-19T20:35:22.860Z'
 title: A Multiple Choice Life
 author: []
 sourcePath: _posts/2016-02-16-a-multiple-choice-life.md
@@ -30,8 +30,11 @@ _Letters to my family. _
 
 Demonstration of the depth of my love for my wife, daughter and son. May each of them always know how much I have each of them as individuals and as my special family members.
 
-Jenny 
+[Jenny ][0]
 
 Haley
 
-Colin
+[Colin][1]
+
+[0]: http://www.bradleyleese.com/jenny/
+[1]: http://www.bradleyleese.com/colin/
