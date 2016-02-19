@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T23:29:24.568Z'
-dateModified: '2016-02-19T23:29:17.657Z'
+datePublished: '2016-02-19T23:44:34.817Z'
+dateModified: '2016-02-19T23:29:32.296Z'
 title: Video Dreams
 author: []
+sourcePath: _posts/2016-02-19-video-dreams.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-19-video-dreams.md
-published: true
 url: video-dreams/index.html
 _type: Article
 
