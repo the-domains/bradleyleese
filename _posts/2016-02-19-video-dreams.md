@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T23:44:34.817Z'
-dateModified: '2016-02-19T23:29:32.296Z'
+datePublished: '2016-02-19T23:45:08.280Z'
+dateModified: '2016-02-19T23:45:07.931Z'
 title: Video Dreams
 author: []
 sourcePath: _posts/2016-02-19-video-dreams.md
