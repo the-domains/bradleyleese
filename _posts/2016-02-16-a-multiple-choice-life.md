@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-19T20:35:33.640Z'
-dateModified: '2016-02-19T20:35:22.860Z'
+datePublished: '2016-02-19T20:35:51.669Z'
+dateModified: '2016-02-19T20:35:41.100Z'
 title: A Multiple Choice Life
 author: []
 sourcePath: _posts/2016-02-16-a-multiple-choice-life.md
