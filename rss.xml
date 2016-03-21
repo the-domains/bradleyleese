@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Bradley Leese - Family Journal]]></title>
-        <description><![CDATA[Bradley Leese - Family Journal]]></description>
+        <title><![CDATA[Stepping Back & Looking Forward - Bradley]]></title>
+        <description><![CDATA[Stepping Back & Looking Forward - Bradley]]></description>
         <link>http://www.bradleyleese.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 19:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 19:34:27 GMT</lastBuildDate>
         <atom:link href="http://www.bradleyleese.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Technological Sigularity]]></title>
@@ -25,7 +25,7 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c004150-ee2d-487f-be6c-9f0fd95cce69.jpg">]]></description>
             <link>http://www.bradleyleese.com/superforecasting/index.html</link>
             <guid isPermaLink="false">31b88a09-725e-4314-a477-6e5908a0755c</guid>
-            <pubDate>Mon, 21 Mar 2016 18:28:36 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 19:34:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
