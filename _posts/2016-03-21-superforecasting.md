@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Superforecasting
-datePublished: '2016-03-21T18:28:36.585Z'
-dateModified: '2016-03-21T18:28:04.300Z'
+datePublished: '2016-03-21T19:34:26.239Z'
+dateModified: '2016-03-21T19:11:24.982Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-21-superforecasting.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-superforecasting.md
-published: true
 url: superforecasting/index.html
 _type: Article
 
