@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-21T19:16:08.818Z'
-dateModified: '2016-03-21T19:15:18.036Z'
+description: By Murray Shanahan
+datePublished: '2016-03-21T19:34:58.819Z'
+dateModified: '2016-03-21T19:33:14.788Z'
 title: The Technological Sigularity
 author: []
+sourcePath: _posts/2016-03-21-the-technological-sigularity.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-the-technological-sigularity.md
-published: true
 url: the-technological-sigularity/index.html
 _type: Article
 
