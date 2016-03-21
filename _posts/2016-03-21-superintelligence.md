@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-21T19:13:38.156Z'
-dateModified: '2016-03-21T19:13:17.819Z'
+datePublished: '2016-03-21T19:34:41.607Z'
+dateModified: '2016-03-21T19:13:41.936Z'
 title: Superintelligence
 author: []
+sourcePath: _posts/2016-03-21-superintelligence.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-superintelligence.md
-published: true
 url: superintelligence/index.html
 _type: Article
 
