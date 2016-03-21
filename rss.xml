@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Bradley Leese - Family Journal]]></title>
         <description><![CDATA[Bradley Leese - Family Journal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.bradleyleese.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 18:29:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 19:13:41 GMT</lastBuildDate>
+        <atom:link href="http://www.bradleyleese.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Superintelligence]]></title>
+            <description><![CDATA[<article><h1>Superintelligence</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0759c84-2f55-47c2-9cad-827c3e1306d6.jpg"></article>]]></description>
+            <link>http://www.bradleyleese.com/superintelligence/index.html</link>
+            <guid isPermaLink="false">fd6bf133-c140-4788-83f3-90d4894a8af4</guid>
+            <pubDate>Mon, 21 Mar 2016 19:13:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c004150-ee2d-487f-be6c-9f0fd95cce69.jpg">]]></description>
-            <link>undefinedsuperforecasting/index.html</link>
+            <link>http://www.bradleyleese.com/superforecasting/index.html</link>
             <guid isPermaLink="false">31b88a09-725e-4314-a477-6e5908a0755c</guid>
             <pubDate>Mon, 21 Mar 2016 18:28:36 GMT</pubDate>
         </item>
