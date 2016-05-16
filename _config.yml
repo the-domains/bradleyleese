@@ -1,7 +1,7 @@
 name: Bradley Leese
 favicon: null
-layout_spectrum: 0.50112
-typography_spectrum: 0.44311
+layout_spectrum: 0.7575
+typography_spectrum: 0.79509
 title: 'Stepping Back & Looking Forward - Bradley'
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#eed300'
-    - '#c08600'
-    - '#65926b'
-    - '#365939'
-    - '#703400'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0
+    - '#ffffff'
+    - '#f79c82'
+    - '#505a78'
+    - '#7fde95'
+    - '#000000'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
