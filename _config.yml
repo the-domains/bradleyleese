@@ -1,8 +1,31 @@
-name: Bradley Leese
-favicon: null
-layout_spectrum: 0.7575
 typography_spectrum: 0.79509
-title: 'Stepping Back & Looking Forward - Bradley'
+color:
+  brandColors:
+    - '#ffffff'
+    - '#f79c82'
+    - '#505a78'
+    - '#7fde95'
+    - '#000000'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.25
+  rhythmicContrast: 0.75
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7575
+analytics:
+  google: UA-9530598-13
+  facebook: null
+  twitter: null
+name: Bradley Leese
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +38,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#f79c82'
-    - '#505a78'
-    - '#7fde95'
-    - '#000000'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.25
-  rhythmicContrast: 0.75
+title: Stepping Back & Looking Forward - Bradley
+content: []
 purpose: []
