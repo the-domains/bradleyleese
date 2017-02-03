@@ -44,4 +44,7 @@ purpose:
   - type: contact
     url: 'tel:8184259733'
     label: Call 8184259733
+  - type: contact
+    url: 'mailto:bradleyleese@gmail.com'
+    label: Contact me
 description: Identity visionary
