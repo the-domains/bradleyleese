@@ -40,5 +40,8 @@ collections:
       path: '/:title/'
 title: Stepping Back & Looking Forward - Bradley
 content: []
-purpose: []
+purpose:
+  - type: contact
+    url: 'tel:8184259733'
+    label: Call 8184259733
 description: Identity visionary
