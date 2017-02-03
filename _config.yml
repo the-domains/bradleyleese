@@ -48,3 +48,9 @@ purpose:
     url: 'mailto:bradleyleese@gmail.com'
     label: Email Me
 description: Identity visionary
+content_rating:
+  adult: false
+author:
+  name: Bradley Leese
+  email: bradleyleese@gmail.com
+  url: 'http://www.bradleyleese.com'
